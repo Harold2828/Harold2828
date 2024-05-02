@@ -1,8 +1,8 @@
 ### Hi there, I'm Harold Ochoa
 
 ## About
-* 🇨🇴 Colombian with a passion for the world of development and machine learning.
-* Energy Engineer specializing in Artificial Intelligence. 
+* Engineer with experience in web applications and a love for all things development and Machine Learning!  ⚙️
+* Specialist in Artificial Intelligence.  
 
 ## Skills
 
