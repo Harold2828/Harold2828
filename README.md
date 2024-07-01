@@ -19,6 +19,7 @@
 
  ## Connect with me 
 
+![LinkedIn](Images/LinkedIn.png)
 [LinkedIn](https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago)
 
 <!--
