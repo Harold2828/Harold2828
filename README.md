@@ -19,7 +19,7 @@
 
  ## Connect with me 
 
-[![LinkedIn](Images/LinkedIn.png)]((https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago))
+[![LinkedIn](Images/LinkedIn.png)](https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago)
 
 <!--
 **Harold2828/Harold2828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
