@@ -13,7 +13,7 @@
     * Matlab  
     * SQL  ️
 * Tools:
-    * Regular Expressions (RegEx)  .*
+    * Regular Expressions (RegEx) 
     * Docker 
     * AWS 
 
