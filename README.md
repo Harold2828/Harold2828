@@ -19,7 +19,9 @@
 
  ## Connect with me 
 
-[![LinkedIn](Images/LinkedIn.png)](https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago)
+<a href="https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago" rel="nofollow">
+   <img src="Images/LinkedIn.png" alt="LinkedIn" width=15% height=15%>
+</a>
 
 ## Certifications 
 
