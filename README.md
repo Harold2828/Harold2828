@@ -20,7 +20,7 @@
  ## Connect with me 
 
 <a href="https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago" rel="nofollow">
-   <img src="Images/LinkedIn.png" alt="LinkedIn" width=15% height=15%>
+   <img src="Images/LinkedIn.png" alt="LinkedIn" width=5% height=5%>
 </a>
 
 ## Certifications 
