@@ -21,6 +21,9 @@
 
 [![LinkedIn](Images/LinkedIn.png)](https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago)
 
+## Certifications 
+
+[![GithubFoundations](Images/github_foundations.png)](https://www.credly.com/badges/fe422938-d349-4627-b26f-33c088348fd0)
 <!--
 **Harold2828/Harold2828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
