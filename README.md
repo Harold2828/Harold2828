@@ -3,7 +3,7 @@
 Hi there! I'm **Harold Ochoa**, a Full Stack Developer with a strong focus on **Machine Learning** and **Artificial Intelligence**. I’m passionate about solving complex problems through innovative code. I love working on projects that merge development with data science to create impactful solutions.
 
 ### 🔥 Currently working with:
-- **Laravel** | **Angular** | **PHP** | **MATLAB**  
+-  **Python** | **Laravel** | **Angular** | **PHP** | **MATLAB**  
 - Exploring new tools and frameworks to always stay ahead.
 
 ---
