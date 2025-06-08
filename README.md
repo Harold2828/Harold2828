@@ -1,10 +1,11 @@
 <a href="https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago">
-    <img src="Images/colombia.png" alt="Spanish">
+    <img src="Images/colombia.png" alt="Spanish" style="width: 3vw;">
 </a>
 
-<a href="https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago" style="border: 3px solid green; display: inline-block;">
-    <img src="Images/english.png" alt="English">
+<a href="https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago" style="display: inline-block; border: 3px solid green;">
+    <img src="Images/english.png" alt="English" style="width: 3vw;">
 </a>
+
 
 
 # Welcome to My GitHub! 👋
