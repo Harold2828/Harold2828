@@ -1,3 +1,12 @@
+<a href="https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago">
+    <img src="Images/colombia.png" alt="Spanish">
+</a>
+
+<a href="https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago" style="border: 3px solid green; display: inline-block;">
+    <img src="Images/english.png" alt="English">
+</a>
+
+
 # Welcome to My GitHub! 👋
 
 Hi there! I'm **Harold Ochoa**, a Full Stack Developer with a strong focus on **Machine Learning** and **Artificial Intelligence**. I’m passionate about solving complex problems through innovative code. I love working on projects that merge development with data science to create impactful solutions.
