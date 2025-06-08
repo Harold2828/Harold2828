@@ -1,8 +1,8 @@
-<a href="https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago" style="display: inline-block; border: 3px solid green;">
-    <img src="Images/colombia.png" alt="Spanish" style="width: 3vw;">
+<a href="README_ES.md">
+    <img src="Images/colombia.png" alt="Spanish" style="width: 3vw; max-width: 100%;border: 3px solid green;border-radius: 100%;">
 </a>
 
-<a href="https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago" >
+<a href="README.md" >
     <img src="Images/english.png" alt="English" style="width: 3vw;">
 </a>
 
