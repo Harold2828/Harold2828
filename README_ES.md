@@ -1,5 +1,5 @@
 <a href="README_ES.md">
-    <img src="Images/colombia.png" alt="Spanish" style="width: 3vw; max-width: 100%;border: 3px solid green;border-radius: 100%;">
+    <img src="Images/colombia_selected.png" alt="Spanish" style="width: 3vw; max-width: 100%;border: 3px solid green; border-radius: 100%;">
 </a>
 
 <a href="README.md" >
