@@ -3,7 +3,7 @@
 </a>
 
 <a href="README.md">
-    <img src="Images/english_selected.png" alt="English" style="width: 3vw; max-width: 100%; border: 3px solid green;border-radius: 100%;">
+    <img src="Images/english_selected.png" alt="English" style="width: 3.3vw; max-width: 100%; border: 3px solid green;border-radius: 100%;">
 </a>
 
 
