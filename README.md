@@ -1,12 +1,4 @@
-<a href="README_ES.md">
-    <img src="Images/colombia.png" alt="Spanish" style="width: 3vw;">
-</a>
-
-<a href="README.md">
-    <img src="Images/english_selected.png" alt="English" style="width: 6vh; border: 3px solid green;border-radius: 100%;">
-</a>
-
-
+**🌐 Language:** **[🇬🇧 English](README.md)** | [🇪🇸 Español](README_ES.md)
 
 # Welcome to My GitHub! 👋
 
