@@ -1,4 +1,4 @@
-**🌐 Language:** [🇬🇧 English](https://github.com/Harold2828) | **[🇪🇸 Español](README_ES.md)**
+**🌐 Idioma:** [🇬🇧 English](https://github.com/Harold2828) | **[🇪🇸 Español](README_ES.md)**
 
 # ¡Bienvenido a mi GitHub! 👋
 
