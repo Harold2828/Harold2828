@@ -22,7 +22,7 @@ Hi there! I'm **Harold Ochoa**, a Full Stack Developer with a strong focus on **
   A data-driven solution for automatically sizing photovoltaic systems using pattern recognition and statistical analysis.
 
 #### ⚙️ Automation
-- **💱 Exchange Rate Alert Automation**  
+- **💱 [Exchange Rate Alert Automation](https://github.com/Harold2828/ExchangeAlert)**  
   A macOS background automation project that monitors currency exchange rates and triggers custom alerts.  
   - Built with **Bash**, **Python**, and **launchd**
   - Runs silently on macOS and logs output to files
