@@ -21,6 +21,13 @@ Hi there! I'm **Harold Ochoa**, a Full Stack Developer with a strong focus on **
 - **🔆 PV Auto Sizing**  
   A data-driven solution for automatically sizing photovoltaic systems using pattern recognition and statistical analysis.
 
+- **🏓 [Reinforcement Learning Pong Game](https://github.com/Harold2828/ReinforcementLearningPong)**  
+  A hands-on project that integrates classic Pong gameplay with Reinforcement Learning.  
+  - Built with **PhaserJS** (frontend), **Flask + WebSockets** (backend), and **PyTorch** (AI agent)
+  - The agent learns to play Pong via **Q-learning**, using trial and error with reward feedback
+  - Real-time interaction between game and model via WebSockets
+  - Modular structure for training, observing, and extending the AI's performance
+
 #### ⚙️ Automation
 - **💱 [Exchange Rate Alert Automation](https://github.com/Harold2828/ExchangeAlert)**  
   A macOS background automation project that monitors currency exchange rates and triggers custom alerts.  
