@@ -42,7 +42,9 @@ I'm **Harold Ochoa** — a Full Stack Developer with a strong specialization in 
 
 ### 📜 Certifications
 
-[![GitHub Foundations](Images/github_foundations.png)](https://www.credly.com/badges/fe422938-d349-4627-b26f-33c088348fd0)
+<a href="https://www.credly.com/badges/fe422938-d349-4627-b26f-33c088348fd0" rel="nofollow">
+   <img src="Images/github_foundations.png" alt="GithubFoundations" width=15% height=15%>
+</a>
 
 ---
 
