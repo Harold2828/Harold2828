@@ -30,10 +30,7 @@ I'm **Harold Ochoa** — a Full Stack Developer with a strong specialization in 
 #### 🛠️ Automation & Integration
 - **💱 [Exchange Rate Alert Automation](https://github.com/Harold2828/ExchangeAlert)**  
   Background macOS automation using **Bash + Python + launchd** to monitor real-time exchange rates.
-
-- **🤖 Chatbot + RPA Integration** *(Private Project)*  
-  End-to-end AI chatbot pipeline using **Power Automate**, **REST APIs**, and **SharePoint**, enabling automated data flows to external systems.
-
+  
 ---
 
 ### 📌 About Me
