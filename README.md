@@ -1,71 +1,58 @@
 **🌐 Language:** **[🇬🇧 English](https://github.com/Harold2828)** | [🇪🇸 Español](README_ES.md)
 
-# Welcome to My GitHub! 👋
+# 👋 Welcome to My GitHub
 
-Hi there! I'm **Harold Ochoa**, a Full Stack Developer with a strong focus on **Machine Learning** and **Artificial Intelligence**. I’m passionate about solving complex problems through innovative code. I love working on projects that merge development with data science to create impactful solutions.
-
----
-
-### 🔥 Currently working with:
-- **Python** | **Laravel** | **Angular** | **PHP** | **MATLAB**  
-- Exploring new tools and frameworks to always stay ahead.
+I'm **Harold Ochoa** — a Full Stack Developer with a strong specialization in **Artificial Intelligence** and **Automation**. I build real-world systems that combine backend development, machine learning, and process automation to solve practical problems.
 
 ---
 
-### 🔍 **Interesting Projects**
+### ⚙️ Core Technologies
+- **Python** | **JavaScript** | **PHP** | **MATLAB** | **SQL**
+- **Frameworks**: PyTorch, Flask, Laravel, Angular, Docker
+- **Tools**: WebSockets, Power Automate, GitHub Actions, AWS
 
-#### 🤖 Artificial Intelligence
-- **🧬 Genetic Algorithms for Optimization**  
-  A math-intensive project using genetic algorithms to determine optimal configurations for electronic devices.
+---
+
+### 🧠 Highlight Projects
+
+#### 🤖 AI & Machine Learning
+- **🏓 [Reinforcement Learning Pong Game](https://github.com/Harold2828/ReinforcementLearningPong)**  
+  - AI agent built with **PyTorch + Q-Learning**  
+  - Real-time interaction between PhaserJS game and Flask backend via **WebSockets**
+  - Modular structure for training, observation, and performance evaluation
 
 - **🔆 PV Auto Sizing**  
-  A data-driven solution for automatically sizing photovoltaic systems using pattern recognition and statistical analysis.
+  Pattern recognition and statistical methods to size photovoltaic systems efficiently.
 
-- **🏓 [Reinforcement Learning Pong Game](https://github.com/Harold2828/ReinforcementLearningPong)**  
-  A hands-on project that integrates classic Pong gameplay with Reinforcement Learning.  
-  - Built with **PhaserJS** (frontend), **Flask + WebSockets** (backend), and **PyTorch** (AI agent)
-  - The agent learns to play Pong via **Q-learning**, using trial and error with reward feedback
-  - Real-time interaction between game and model via WebSockets
-  - Modular structure for training, observing, and extending the AI's performance
+- **🧬 Genetic Algorithms for Optimization**  
+  Solves complex configuration problems using evolutionary techniques.
 
-#### ⚙️ Automation
+#### 🛠️ Automation & Integration
 - **💱 [Exchange Rate Alert Automation](https://github.com/Harold2828/ExchangeAlert)**  
-  A macOS background automation project that monitors currency exchange rates and triggers custom alerts.  
-  - Built with **Bash**, **Python**, and **launchd**
-  - Runs silently on macOS and logs output to files
-  - Modular structure for future exchange rate sources
-  - Ideal for developers or investors needing timely exchange notifications
+  Background macOS automation using **Bash + Python + launchd** to monitor real-time exchange rates.
+
+- **🤖 Chatbot + RPA Integration** *(Private Project)*  
+  End-to-end AI chatbot pipeline using **Power Automate**, **REST APIs**, and **SharePoint**, enabling automated data flows to external systems.
 
 ---
 
-### 💼 About Me
-- **Engineer** with a passion for developing full-stack web applications and applying **AI techniques** to solve real-world problems.
-- Specialist in **Artificial Intelligence**, constantly learning and experimenting with new methodologies.
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**  
-- Python | PHP | JavaScript | MATLAB | SQL
-
-**Frameworks & Tools**  
-- Laravel | Angular | Docker | AWS | RegEx
+### 📌 About Me
+- Engineer specialized in **AI-driven systems** and full-stack development.
+- Strong experience integrating **LLMs**, **chatbots**, and **RPA** tools with real-time backends.
+- Passionate about automation, reinforcement learning, and solving high-impact problems.
 
 ---
 
 ### 📜 Certifications
 
-<a href="https://www.credly.com/badges/fe422938-d349-4627-b26f-33c088348fd0" rel="nofollow">
-   <img src="Images/github_foundations.png" alt="GithubFoundations" width=15% height=15%>
-</a>
+[![GitHub Foundations](Images/github_foundations.png)](https://www.credly.com/badges/fe422938-d349-4627-b26f-33c088348fd0)
 
 ---
 
-### 📬 Let's Connect
+### 📬 Let’s Connect
 
 [![LinkedIn](Images/LinkedIn.png)](https://www.linkedin.com/in/harold-oswaldo-ochoa-buitrago)
 
 ---
 
-Feel free to explore my repositories, contribute, or reach out if you’d like to collaborate on exciting projects!
+Feel free to explore my repositories or reach out if you'd like to collaborate on AI or automation projects!
