@@ -9,7 +9,7 @@ I'm **Harold Ochoa** — a Full Stack Developer with a strong specialization in 
 ### ⚙️ Core Technologies
 - **Python** | **JavaScript** | **PHP** | **MATLAB** | **SQL**
 - **Frameworks**: PyTorch, Flask, Laravel, Angular, Docker
-- **Tools**: WebSockets, Power Automate, GitHub Actions, AWS
+- **Tools**: WebSockets, Power Automate, GitHub Actions
 
 ---
 
